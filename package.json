@@ -1,7 +1,7 @@
 {
-    "name": "restart-netgear-router",
+    "name": "reboot-netgear-router",
     "version": "1.0.0",
-    "description": "Puppeteer script to restart a Netgear router",
+    "description": "Puppeteer script to reboot a Netgear router",
     "scripts": {
         "start": "node index.js"
     },
